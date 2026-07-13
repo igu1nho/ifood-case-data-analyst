@@ -6,7 +6,7 @@ Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos.
 
 ![pairplot](images/pairplot_clusters.png)
 
-Projeto de ensino desenvolvido durante o estudo do curso de Ciência de Dados ministrado pela empresa Hashtag Treinamentos. Baseado no processo seletivo para Analista de Dados do iFood disponível [neste repositório](https://github.com/ifood/ifood-data-business-analyst-test).
+Projeto de ensino desenvolvido durante o estudo do curso de Ciência de Dados ministrado pela empresa Hashtag Treinamentos.
 
 Descrição completa do case [aqui](case/README.md).
 
